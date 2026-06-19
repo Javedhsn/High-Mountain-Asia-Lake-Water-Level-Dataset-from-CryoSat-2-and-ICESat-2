@@ -1,0 +1,2 @@
+# High-Mountain-Asia-Lake-Water-Level-Dataset-from-CryoSat-2-and-ICESat-2
+This interactive map provides a visual interface to explore lake water level time series derived from satellite altimetry (CryoSat‑2 and ICESat‑2) across High Mountain Asia. Clicking on a polygon to open a popup window showing the water level time series, including mission-specific data points, measurement uncertainties, and basic statistics.
