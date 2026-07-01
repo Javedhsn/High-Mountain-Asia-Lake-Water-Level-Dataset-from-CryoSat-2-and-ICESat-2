@@ -1,5 +1,5 @@
 # High-Mountain-Asia-Lake-Water-Level-Dataset-from-CryoSat-2-and-ICESat-2
-This interactive map provides a visual interface to explore lake water level time series derived from satellite altimetry (CryoSat‑2 and ICESat‑2) across High Mountain Asia. Open the "Interactive Lake Map.html" in browser. Each colored polygon represents a lake with available observations. clicking on a polygon to open a popup window showing the water level time series, including mission-specific data points, measurement uncertainties, and basic statistics.
+This interactive map provides a visual interface to explore lake water level time series derived from satellite altimetry (CryoSat‑2 and ICESat‑2) across High Mountain Asia. Open the "Interactive Lake Map.html" in browser. Each colored polygon represents a lake with available observations. click on a polygon, a windowto will popup on the map showing the water level time series, including mission-specific data points, measurement uncertainties, and basic statistics.
 
 The associated timeseries dataset in NetCDF format and lake boundaries can be downloaded from ICIMOD's Regional Database System. 
 
