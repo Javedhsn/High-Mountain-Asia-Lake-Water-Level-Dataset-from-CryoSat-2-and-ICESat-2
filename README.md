@@ -3,7 +3,7 @@ This interactive map provides a visual interface to explore lake water level tim
 
 The associated timeseries dataset in NetCDF format and lake boundaries can be downloaded from ICIMOD's Regional Database System. 
 
-The associated science paper can be found https://doi.org/10.5194/egusphere-2026-808. 
+The associated science paper currently in Discussion for publication TC can be found https://doi.org/10.5194/egusphere-2026-808. 
 
 For data citation please refer to the ICIMOD's Regional Database System. 
 
